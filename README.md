@@ -1,13 +1,15 @@
-# Envon-Youtube-Downloader
+# WinTube Video Downloader
 
 **About**
 
-Envon is an fast and modern Youtube Downloader, coded with c#.
-Our aim was it to create a fast and modern gui to easily and fast download Videos.
-Now we have realeased the first Verion of Envon Youtube Downloader.
+WinTube is a fast and modern Youtube Downloader, programmed in C#.
+Our goal was to create a fast and modern UI for fast and easy downloads of youtube videos.
 
 
+** How to install WinTube**
 
-**Download**
+> 1. Download the latest release
+> 2. Unzip the zip file
+> 3. Install WinTube with the setup installer
 
-[Link](https://envyre-coding.eu/)
+
