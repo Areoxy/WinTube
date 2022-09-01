@@ -8,8 +8,8 @@ Our goal was to create a fast and modern UI for fast and easy downloads of youtu
 
 ** How to install WinTube**
 
-> 1. Download the latest release
-> 2. Unzip the zip file
-> 3. Install WinTube with the setup installer
+> - Download the latest release
+> - Unzip the zip file
+> - Install WinTube with the setup installer
 
 
