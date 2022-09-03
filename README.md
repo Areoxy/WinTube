@@ -10,7 +10,7 @@ Our goal was to create a fast and modern UI for fast and easy downloads of youtu
 
 - Download the latest release
 - Unzip the zip file
-- Install WinTube with the setup installer
+- Install WinTube with the setup installer (msi installer recommed)
 > After install open the programm and have fun :)
 
 
