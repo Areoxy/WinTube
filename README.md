@@ -8,6 +8,7 @@ Our goal was to create a fast and modern UI for fast and easy downloads of youtu
 
 **How to install WinTube**
 
+- Download [.NET 6 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) and [WebView 2 Runtime](https://developer.microsoft.com/de-de/microsoft-edge/webview2/)
 - Download the latest release
 - Unzip the zip file
 - Install WinTube with the setup installer (or start the WinTube.exe)
