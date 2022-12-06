@@ -1,3 +1,5 @@
+![Preview 1](img/wintube-banner.png)
+
 # WinTube Video Downloader
 
 **About**
