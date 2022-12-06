@@ -14,3 +14,8 @@ WinTube is a fast and modern Youtube Downloader, programmed in C#. The goal was 
 > After install open the programm and have fun :)
 
 
+# Preview
+
+![Preview 1](img/wintube-screenshot-1.png)
+
+![Preview 1](img/wintube-screenshot-2.png)
