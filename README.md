@@ -13,11 +13,11 @@ WinTube is a fast and modern Youtube Downloader, programmed in C#. The goal was 
 - Download the latest WinTube release
 - Unzip the zip file
 - Install WinTube with the setup installer (or start the WinTube.exe)
-> After install open the programm and have fun :)
+> After installing just start WinTube and have fun :)
 
 
 ## Found a bug or have some questions?
-Join our [Discord](https://discord.gg/9VSEt26ngV)
+Join our [Discord](https://discord.gg/hwtXqdvVa3)
 
 ## Preview
 
