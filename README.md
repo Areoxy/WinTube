@@ -23,6 +23,6 @@ Join our [Discord](https://discord.gg/hwtXqdvVa3)
 
 ## Preview
 
-![Preview 1](img/wintube-screenshot-1)
+![Preview 1](img/wintube-screenshot-1.png)
 
 ![Preview 2](img/wintube-screenshot-2.png)
