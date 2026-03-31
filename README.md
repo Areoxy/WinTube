@@ -14,7 +14,7 @@ WinTube is a sleek, high-performance YouTube downloader built with C#. Designed 
 - Unzip the zip file
 - Create a Shortcut of WinTube.exe and add it to your Desktop
 - Just start WinTube.exe
-- Or: Use the setup installer
+- Or: Use the setup installer - coming soon later 
 > After installing just start WinTube and have fun :)
 
 
