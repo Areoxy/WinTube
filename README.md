@@ -22,7 +22,7 @@ WinTube is a sleek, high-performance YouTube downloader built with C#. Designed 
 Please open a issue here on github.
 
 ## Preview
-
-![Preview 1](img/wintube-screenshot-1.png)
-
-![Preview 2](img/wintube-screenshot-2.png)
+**Home**
+![Preview 1](img/wintube-preview-1.png)
+**Settings**
+![Preview 2](img/wintube-preview-2.png)
