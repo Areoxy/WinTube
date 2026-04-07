@@ -9,7 +9,7 @@ WinTube is a sleek, high-performance YouTube downloader built with C#. Designed 
 
 ## How to install WinTube
 
-- Download and install [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) & (if needed) [WebView 2](https://developer.microsoft.com/de-de/microsoft-edge/webview2/)
+- Install [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and [FFmpeg](https://ffmpeg.org/)
 - Download the latest WinTube release
 - Install WinTube using .msix installer
 > After installing just start WinTube and have fun :)
